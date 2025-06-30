@@ -99,25 +99,25 @@ resume-editor/
   - Pydantic
   - Python 3.8+ #
     
-## Schreen Short-1
+## Screen Short-1
  ![Screenshot (96)](https://github.com/user-attachments/assets/50a21500-9bc8-4808-ba78-93adddeaf48b)
 
-## Schreen Short-2
+## Screen Short-2
  ![Screenshot (97)](https://github.com/user-attachments/assets/49e1c553-4e79-4c77-ab6e-c8ba7362376c)
 
-## Schreen Short-3
+## Screen Short-3
   ![Screenshot (98)](https://github.com/user-attachments/assets/39398576-5687-4252-97f9-1e597e70ff1f)
 
-## Schreen Short-4
+## Screen Short-4
   ![Screenshot (99)](https://github.com/user-attachments/assets/efaa3532-8bf3-46fe-b892-8bd4debb28a8)
 
-## Schreen Short-5
+## ScreenShort-5
 ![Screenshot (100)](https://github.com/user-attachments/assets/2981f1a7-8e1a-4ad8-95d1-77160ab1638b)
 
-## Schreen Short-6
+## Screen Short-6
 ![Screenshot (101)](https://github.com/user-attachments/assets/9050e448-5e75-435a-abaa-b3e23011efa9)
 
-## Schreen Short-7
+## Screen Short-7
 ![Screenshot (102)](https://github.com/user-attachments/assets/cebe4b1f-0cf0-4c4c-819a-4fd7186a20c6)
 
 
